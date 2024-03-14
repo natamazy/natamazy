@@ -4,6 +4,6 @@
 
 ###
 
-<p align="left"><b>Hey everyone, I am Narek</b>\n\nAs an ambitious and driven individual with a passion for design and technology, I have gained valuable experience in UI/UX design and project management. I am now furthering my education by learning software engineering at 42 School, to become a well-rounded professional who can contribute to the full software development lifecycle.</p>
+<p align="left"><b>Hey everyone, I am Narek</b><br><br>As an ambitious and driven individual with a passion for design and technology, I have gained valuable experience in UI/UX design and project management. I am now furthering my education by learning software engineering at 42 School, to become a well-rounded professional who can contribute to the full software development lifecycle.</p>
 
 ###
