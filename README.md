@@ -1,16 +1,13 @@
-### Hi there 👋
+<br clear="both">
 
-<!--
-**natamazy/natamazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" height="200" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"  />
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="left">Hey everyone, I am Narek</h2>
+
+###
+
+<p align="left">As an ambitious and driven individual with a passion for design and technology, I have gained valuable experience in UI/UX design and project management. I am now furthering my education by learning software engineering at 42 School, to become a well-rounded professional who can contribute to the full software development lifecycle.</p>
+
+###
